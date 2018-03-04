@@ -1,4 +1,3 @@
-16 lines (11 sloc)  419 Bytes
 const commando = require('discord.js-commando')
 const bot = new commando.Client();
 
