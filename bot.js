@@ -13,4 +13,4 @@ bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + "/commands");
 
 
-bot.login(process.env.BOT_TOKEN);
+bot.login("NDE5ODAxNzA0Mzc3MDkwMDQ4.DX10MA.yywyjQo77ejLQV8CslEYSfqG7P4");
